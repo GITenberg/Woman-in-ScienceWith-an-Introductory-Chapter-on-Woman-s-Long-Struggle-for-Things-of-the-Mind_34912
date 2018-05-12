@@ -1,0 +1,38 @@
+_repo: Woman-in-ScienceWith-an-Introductory-Chapter-on-Woman-s-Long-Struggle-for-Things-of-the-Mind_34912
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Zahm, J. A. (John Augustine)
+    aliases:
+    - Zahm, John Augustine
+    - Mozans, H. J.
+    birthdate: 1851
+    deathdate: 1921
+    gutenberg_agent_id: '37317'
+    url: http://www.gutenberg.org/2009/agents/37317
+    wikipedia: http://en.wikipedia.org/wiki/John_Augustine_Zahm
+description: ''
+gutenberg_issued: '2011-01-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34912'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'Q'
+- !lcsh 'Women -- History'
+- !lcsh 'Women scientists'
+tableOfContents: 'Woman''s long struggle for things of the mind -- Woman''s capacity
+  for scientific pursuits -- Women in mathematics -- Women in astronomy -- Women in
+  phyics -- Women in chemistry -- Women in the natural sciences -- Women in medicine
+  and surgery -- Women in archaeology -- Women as inventors -- Women as inspirers
+  and collaborators in science -- The future of women in science: summary and epilogue.'
+title: 'Woman in Science
+
+  With an Introductory Chapter on Woman''s Long Struggle for Things of the Mind'
+url: http://www.gutenberg.org/ebooks/34912
